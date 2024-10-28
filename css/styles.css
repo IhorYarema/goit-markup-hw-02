@@ -7,6 +7,14 @@ body {
   letter-spacing: 0.02em;
 }
 
+.lower-header {
+  color: #2e2f42;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+}
+
 .logo {
   color: #4d5ae5;
   font-family: "Raleway", sans-serif;
@@ -94,14 +102,6 @@ body {
   list-style-type: none;
 }
 
-.lower-header {
-  color: #2e2f42;
-  font-weight: 500;
-  font-size: 20px;
-  line-height: 1.2;
-  letter-spacing: 0.02em;
-}
-
 .third-section {
   background-color: #f4f4fd;
 }
@@ -124,16 +124,8 @@ body {
   background-color: #ffffff;
 }
 
-.third-section .team-list .team-member .lower-header {
-  letter-spacing: 0.02em;
-}
-
 .portfolio-list {
   list-style-type: none;
-}
-
-.portfolio-list .lower-header {
-  letter-spacing: 0.02em;
 }
 
 .lower-part {
