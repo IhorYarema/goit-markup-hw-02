@@ -7,14 +7,6 @@ body {
   letter-spacing: 0.02em;
 }
 
-.lower-header {
-  color: #2e2f42;
-  font-weight: 500;
-  font-size: 20px;
-  line-height: 1.2;
-  letter-spacing: 0.02em;
-}
-
 .logo {
   color: #4d5ae5;
   font-family: "Raleway", sans-serif;
@@ -138,4 +130,12 @@ body {
 
 .advice {
   color: #f4f4fd;
+}
+
+.lower-header {
+  color: #2e2f42;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
 }
