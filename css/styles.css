@@ -124,8 +124,16 @@ body {
   background-color: #ffffff;
 }
 
+.third-section .team-list .team-member .lower-header {
+  letter-spacing: 0.02em;
+}
+
 .portfolio-list {
   list-style-type: none;
+}
+
+.portfolio-list .lower-header {
+  letter-spacing: 0.02em;
 }
 
 .lower-part {
